@@ -1,0 +1,35 @@
+.container{
+    width: 100%;
+    background-color:rgb(56, 160, 204);
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(176, 144, 16);
+  }
+
+.container1{
+    width: 350px;
+    height: 700px;
+    background-color: rgb(160, 212, 175);
+    display: inline-block;
+    margin: 8px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+img{
+    width: 350px;
+    height: 550px;
+    border-radius: 10px;
+}
+h2{
+text-align: center;
+
+}
+
+p{
+/* margin-left:20px;
+margin-right: 10px;
+*/
+text-align: center;
+}
